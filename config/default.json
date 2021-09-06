@@ -1,0 +1,11 @@
+{
+    "db-connections": {
+        "mongodb": {
+            "host": "cluster0.uniou.mongodb.net",
+            "user": "e-commerce",
+            "password": "jjUgqzHsMoGvBQ9v",
+            "dbname": "E-CommerceDB"
+        }
+    },
+    "server-port": "3000"
+}
